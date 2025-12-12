@@ -1,0 +1,1 @@
+in terminal type "python script.py"
